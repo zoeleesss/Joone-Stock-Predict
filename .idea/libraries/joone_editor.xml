@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="joone-editor">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../joone/lib/joone-editor.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/joone-engine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/SOMImageTester.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/l2fprod-common-sheet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/nachocalendar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/xstream.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/groovy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/visad.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/bsh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/jakarta-poi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/jh.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/jhotdraw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../joone/lib/velocity-dep.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
